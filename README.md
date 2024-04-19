@@ -1,7 +1,7 @@
 ## Olá! Eu sou Klara Marinho 💜 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/klarav.marinho/)
 <a href="https://www.linkedin.com/in/klara-marinho-621a85292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klara.marinho1303@gmail.com)
 
 ![Klara Marinho GitHub stats](https://github-readme-stats.vercel.app/api?username=klaramarinho&show_icons=true&theme=radical)
 
